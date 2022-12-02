@@ -1,1 +1,1 @@
-system devops
+Learning the basics of shell
