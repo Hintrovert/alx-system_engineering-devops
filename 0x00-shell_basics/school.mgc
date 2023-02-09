@@ -1,2 +1,2 @@
 #!/bin/bash
-file . "SCHOOL"
+school.data: School data file
